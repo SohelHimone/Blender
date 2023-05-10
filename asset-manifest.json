@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blender/static/css/main.ec348d0f.css",
+    "main.js": "/Blender/static/js/main.7e5a5fb1.js",
+    "static/media/Screenshot (82) 1.png": "/Blender/static/media/Screenshot (82) 1.a4726b2dc6e9567c62ac.png",
+    "static/media/Screenshot 2022-12-17 at 13.54 1.png": "/Blender/static/media/Screenshot 2022-12-17 at 13.54 1.6181196d0e474b42ff77.png",
+    "static/media/pose06_male.png": "/Blender/static/media/pose06_male.3393b672abe41bc9a32e.png",
+    "static/media/image 2.png": "/Blender/static/media/image 2.dcce7c8981b8b8b2524e.png",
+    "static/media/image 1882.png": "/Blender/static/media/image 1882.2d40d4c7d3c58a115105.png",
+    "static/media/1001.png": "/Blender/static/media/1001.5c6fa2bb9a8319314dac.png",
+    "static/media/1-QbM6R-atp-transformed 1.png": "/Blender/static/media/1-QbM6R-atp-transformed 1.4078c764716959406264.png",
+    "static/media/Rectangle 23.png": "/Blender/static/media/Rectangle 23.2696dc31ab8c72d6b9d4.png",
+    "static/media/Rectangle 25.png": "/Blender/static/media/Rectangle 25.2b0b1fa4349dfb3a8db3.png",
+    "index.html": "/Blender/index.html",
+    "main.ec348d0f.css.map": "/Blender/static/css/main.ec348d0f.css.map",
+    "main.7e5a5fb1.js.map": "/Blender/static/js/main.7e5a5fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec348d0f.css",
+    "static/js/main.7e5a5fb1.js"
+  ]
+}
